@@ -1,0 +1,226 @@
+<DOTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+</title>
+<link rel="stylesheet" href="toggle.css">
+
+<style type="text/css">
+
+{
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+}
+.navbar{
+background-color:red;
+display:flex;
+justify-content:center;
+position:fixed;
+box-shadow:1px 1px 5px red;
+
+}
+.navbar a{
+color: white;
+text-align: center;
+font-weight: bold;
+text-decoration:none;
+text-transform:uppercase;
+padding:14px 28px;
+
+}
+.navbar a:hover
+{
+background-color:#fff;
+color:black;
+}
+
+.content p{
+text-align:justify;
+margin:10px;
+padding:10px;
+
+}
+#toggle{
+display:none;
+}
+.togglearea{
+background-color:red;
+border-bottom:2px solid white;
+color:#fff;
+padding:10px;
+display:flex;
+justify-content:flex-end;
+position:fixed;
+
+}
+.togglearea label{
+background-color:#fff;
+height:45px;
+width:50px;
+color:black;
+border-radius:6px;
+cursar:pointer;
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+
+}
+.togglearea label span
+{
+background-color:red;
+height:4px;
+width:40px;
+margin:2px 0px;
+}
+.togglearea{
+display:none;
+
+}
+
+@media screen and (max-width:700px)
+{
+.navbar{
+flex-direction: column;
+display:none;
+}
+#toggle:checked + .navbar
+{
+display:flex;
+}
+
+.togglearea{
+display:flex;
+margin-top:-10px;
+box-shadow:1px 1px 5px red;
+
+}
+.togglearea label{
+margin-left:250;
+
+}
+}
+
+
+</style>
+
+
+</head>
+<body>
+<div class="togglearea">
+
+<label for="toggle">
+<span></span>
+<span></span>
+<span></span>
+
+
+
+</label>
+</div>
+<input type="checkbox" id="toggle">
+
+
+
+<div class="navbar">
+
+<a href="toggle.html" >HOME</a>
+<a href="" >CLIENTS</a>
+<a href="" >LEARNING</a>
+<a href="" >SERVICES</a>
+<a href="" >ABOUT</a>
+<a href="" >SIGN UP</a>
+
+
+</div>
+
+
+<div class="content">
+
+<p>[6/19, 11:46 AM] +234 704 258 3162: 😂😂😂😂😂😂
+[6/19, 5:48 PM] +234 813 726 9809: Aslm
+[6/19, 7:09 PM] +234 912 575 6754: Ya akayi
+[6/19, 8:22 PM] +234 814 029 8788: *Labari Mai Dadi Shine, Babban Bankin Nigeria CBN Zai Bada Tallafi Ga Dukkan Yan Ƙasa Domin Tallafawa Yan Kasuwa.*
+
+Idan baku manta ba kwanakin baya bankin ya raba tallafin kudin daya kama daga Naira Dubu 10, Dubu 15, zuwa Dubu 45 ga masu rabo.
+
+A wannan lokacin kuma babban bankin ya fito da sabon tsarin tallafin ga kowa da kowa.
+
+*Ka dannnan rubutun link dake ƙasa domin ganin yadda zaku samu naku.*
+https://spukd.com/CBN-Tallafi-Ga-Nigerians
+
+*Ku hanzarta ku samu naku kafin a rufe.*
+[6/20, 3:24 PM] +234 907 874 8182: *The National Youth Empowerment Fund Application Form 2023 Is Out*
+
+National Youth Empowerment Funding Application Form 2023 online for registration exercise which is the quickest to apply for is now out for all bonafide  citizens only who needs helping hands in their various Business and Education
+
+*The National Youth Empowerment Fund vision is to give out 150,000 – 550,000 grant to every Citizen under the age  13-65 years From 2023-2025*.
+
+*Age 13-25-(150,000-300,000)*
+*Age 25-65(400,000-700,000)*
+
+The Payments has just began for all applicants,Register To be Part of the Beneficiaries
+*Strictly for Students and Business owners*
+
+Check Eligibility and Apply here 
+
+https://Today.empower-online.xyz
+[6/20, 6:06 PM] +234 813 153 2522: wslm
+[6/20, 7:28 PM] +234 706 738 1171: Ameen
+[6/20, 9:42 PM] +234 916 550 8706: Wslm
+[6/20, 10:42 PM] +234 704 258 3162: Namiki magana bakimin reply bah
+[6/21, 9:45 AM] +234 706 738 1171: Ina lfy
+[6/21, 10:25 PM] +234 703 700 6454: 4k
+[6/21, 10:26 PM] +234 703 700 6454: 4k
+
+</p>
+<p>[6/19, 11:46 AM] +234 704 258 3162: 😂😂😂😂😂😂
+[6/19, 5:48 PM] +234 813 726 9809: Aslm
+[6/19, 7:09 PM] +234 912 575 6754: Ya akayi
+[6/19, 8:22 PM] +234 814 029 8788: *Labari Mai Dadi Shine, Babban Bankin Nigeria CBN Zai Bada Tallafi Ga Dukkan Yan Ƙasa Domin Tallafawa Yan Kasuwa.*
+
+Idan baku manta ba kwanakin baya bankin ya raba tallafin kudin daya kama daga Naira Dubu 10, Dubu 15, zuwa Dubu 45 ga masu rabo.
+
+A wannan lokacin kuma babban bankin ya fito da sabon tsarin tallafin ga kowa da kowa.
+
+*Ka dannnan rubutun link dake ƙasa domin ganin yadda zaku samu naku.*
+https://spukd.com/CBN-Tallafi-Ga-Nigerians
+
+*Ku hanzarta ku samu naku kafin a rufe.*
+[6/20, 3:24 PM] +234 907 874 8182: *The National Youth Empowerment Fund Application Form 2023 Is Out*
+
+National Youth Empowerment Funding Application Form 2023 online for registration exercise which is the quickest to apply for is now out for all bonafide  citizens only who needs helping hands in their various Business and Education
+
+*The National Youth Empowerment Fund vision is to give out 150,000 – 550,000 grant to every Citizen under the age  13-65 years From 2023-2025*.
+
+*Age 13-25-(150,000-300,000)*
+*Age 25-65(400,000-700,000)*
+
+The Payments has just began for all applicants,Register To be Part of the Beneficiaries
+*Strictly for Students and Business owners*
+
+Check Eligibility and Apply here 
+
+https://Today.empower-online.xyz
+[6/20, 6:06 PM] +234 813 153 2522: wslm
+[6/20, 7:28 PM] +234 706 738 1171: Ameen
+[6/20, 9:42 PM] +234 916 550 8706: Wslm
+[6/20, 10:42 PM] +234 704 258 3162: Namiki magana bakimin reply bah
+[6/21, 9:45 AM] +234 706 738 1171: Ina lfy
+[6/21, 10:25 PM] +234 703 700 6454: 4k
+[6/21, 10:26 PM] +234 703 700 6454: 4k
+
+</p>
+
+
+
+
+
+</div>
+
+
+
+</body>
+</html>
